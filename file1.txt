@@ -1,2 +1,3 @@
 newline nb
 conflict branch line
+nl for gui
